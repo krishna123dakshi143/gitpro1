@@ -13,6 +13,10 @@ public class GreensTech {
 		System.out.println("Greens Id:"+greensid);
 		System.out.println("Greens salary:"+empsal);
 		}
+	private void greensOmr123(float empsal,int greensid) {
+		System.out.println("Greens Id:"+greensid);
+		System.out.println("Greens salary:"+empsal);
+		}
 public static void main(String[] args) {
 	GreensTech g=new GreensTech();	
 	 g.greensOmr("chennai");
